@@ -15,6 +15,7 @@
 		58C80A241FCFAC6F0002C839 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58C80A221FCFAC6F0002C839 /* LaunchScreen.storyboard */; };
 		58C80A2F1FCFAC6F0002C839 /* Lets_Dzikir__Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58C80A2E1FCFAC6F0002C839 /* Lets_Dzikir__Tests.swift */; };
 		58C80A3A1FCFAC6F0002C839 /* Lets_Dzikir__UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58C80A391FCFAC6F0002C839 /* Lets_Dzikir__UITests.swift */; };
+		58C80A481FCFACCE0002C839 /* DzViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58C80A471FCFACCE0002C839 /* DzViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		58C80A351FCFAC6F0002C839 /* Lets Dzikir !UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Lets Dzikir !UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		58C80A391FCFAC6F0002C839 /* Lets_Dzikir__UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lets_Dzikir__UITests.swift; sourceTree = "<group>"; };
 		58C80A3B1FCFAC6F0002C839 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		58C80A471FCFACCE0002C839 /* DzViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DzViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				58C80A161FCFAC6E0002C839 /* AppDelegate.swift */,
 				58C80A181FCFAC6E0002C839 /* ViewController.swift */,
 				58C80A1A1FCFAC6E0002C839 /* Main.storyboard */,
+				58C80A471FCFACCE0002C839 /* DzViewController.swift */,
 				58C80A201FCFAC6F0002C839 /* Assets.xcassets */,
 				58C80A221FCFAC6F0002C839 /* LaunchScreen.storyboard */,
 				58C80A251FCFAC6F0002C839 /* Info.plist */,
@@ -264,6 +267,7 @@
 			files = (
 				58C80A1F1FCFAC6F0002C839 /* Lets_Dzikir__.xcdatamodeld in Sources */,
 				58C80A191FCFAC6E0002C839 /* ViewController.swift in Sources */,
+				58C80A481FCFACCE0002C839 /* DzViewController.swift in Sources */,
 				58C80A171FCFAC6E0002C839 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
